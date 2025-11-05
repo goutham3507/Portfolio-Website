@@ -165,6 +165,14 @@ export const SKILLS = [
 ];
 export const EXPERIENCES = [
   {
+    yearRange: "2025 – Present",
+    role: "App Developer (AR/VR) – Intern",
+    company: "POZzlePiece Inc., Remote",
+    description:
+      "Build and maintain the pre-launch MVP: draft core screens and flows, program mobile features, develop accessible UI with CSS, manage database/API integrations, and prototype AR/VR functionalities to ensure seamless component integration on a privacy-first platform.",
+    techStack: ["React Native", "Unity", "ARKit","ARCore", "REST APIs", "PostgreSQL","MongoDB","Firebase", "CSS", "GitHub"]
+  },
+  {
     yearRange: "2022 - Present",
     role: "Technology Trainer",
     company: "Digital Learners to Leaders Tech, Atlanta, GA",
